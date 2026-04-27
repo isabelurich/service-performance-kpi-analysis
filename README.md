@@ -97,14 +97,6 @@ The project follows a layered data model:
 5. Aggregate KPIs at agent level  
 
 ---
-## Project Structure
-├── service_data_pipeline.py
-├── customer_kpi_pipeline.py
-├── kpi_performance_analysis.py
-├── financial_agreement_pipeline.sql
-└── README.md
-
----
 
 ## Disclaimer
 All data structures, names, and fields have been anonymized to preserve confidentiality.  
